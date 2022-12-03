@@ -1,0 +1,16 @@
+This are the tests i carrried out
+ for my first test a 3 by 3 matrix was solved using the matrix
+ M=20...20..50
+   10...6..70
+   40...3..2
+   expected result-41140
+   actual result- 41140
+   THerefore the test was successful
+   
+ for my second test a 3 by 3 matrix was solved using the matrix
+ M=0...0..0
+   0...0..0
+   0...0..0
+   expected result-0
+   actual result- 0
+   THerefore the test was successful

@@ -1,0 +1,8 @@
+											Design goals
+To accomplish the creation of a shared memory.
+To accomplish the creating of three children using the fork system call.
+To accomplish the parents using the wait system call to wait for the three child processes to be done in order to avoid a zombie process.
+To accomplish the deleting of shared memory to avoid memory leaks.
+To accomplish the termination of all process.
+Designed each process to handle different computations for the matrix.
+Designed each process to pass there result to the parent in order for the parent to compute the determinant
